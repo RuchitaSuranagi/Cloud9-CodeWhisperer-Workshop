@@ -45,6 +45,7 @@ CodeWhisperer generates real-time code suggestions based on your comments and ex
 
 ### Step 4:
 Use the toggle tree (CTRL-I) to access user folders. Navigate to your assigned user folder to access examples.
+
 <img width="205" alt="aws (5)" src="https://github.com/RuchitaSuranagi/Cloud9-CodeWhisperer-Workshop/assets/55045069/499512a7-8f7f-44cd-bf32-27b9d855e95a">
 
 ### Step 5:
