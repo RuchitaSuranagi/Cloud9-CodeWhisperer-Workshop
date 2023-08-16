@@ -28,15 +28,20 @@ Once logged in to Cloud9 IDE, you'll find a code editor, debugger, terminal, and
 ### Step 3:
 Before you start typing code ensure that CodeWhisperer is activated.
 
-Navigate to aws-explorer --> Developer tools --> CodeWhisperer in the left-hand side of window, make sure CodeWhisperer is not on pause (incase its on resume Auto-suggestions mode then click on it : <img width="115" alt="image" src="https://github.com/RuchitaSuranagi/Cloud9-CodeWhisperer-Workshop/assets/55045069/5b83c890-74bd-4080-9be1-5353096e58bf">
- ).
-
 Below is a screenshot of what you are expected to see: 
 <img width="194" alt="image" src="https://github.com/RuchitaSuranagi/Cloud9-CodeWhisperer-Workshop/assets/55045069/447a912c-f1f0-406b-b1e1-c20a2bb9ae1b">
 
 Also check the bottom of your page if you can see a tick mark implying its activated: <img width="86" alt="aws (8)" src="https://github.com/RuchitaSuranagi/Cloud9-CodeWhisperer-Workshop/assets/55045069/e1f28818-a13f-428c-aa28-fc71c1d70d70"> 
 
-In case you are not able to see a tick mark against CodeWhisperer, please contact L&D team - admin. 
+Follow below steps if you are not able to see a tick against CodeWhisperer 
+
+Navigate to aws-explorer --> Developer tools --> CodeWhisperer in the left-hand side of window, make sure CodeWhisperer is not on pause (incase its on resume Auto-suggestions mode then click on it :<img width="136" alt="image" src="https://github.com/RuchitaSuranagi/Cloud9-CodeWhisperer-Workshop/assets/55045069/b51cac01-e8c0-4c08-8227-cd56d1f969d0">
+) then check for <img width="86" alt="aws (8)" src="https://github.com/RuchitaSuranagi/Cloud9-CodeWhisperer-Workshop/assets/55045069/e1f28818-a13f-428c-aa28-fc71c1d70d70"> .  
+Continue coding! 
+
+In case you are not able to see a tick mark against CodeWhisperer example the screenshot below, then contact L&D team - admin.   
+<img width="197" alt="image" src="https://github.com/RuchitaSuranagi/Cloud9-CodeWhisperer-Workshop/assets/55045069/aac00de0-4abf-4d69-88d2-c9a931a55e16">
+
 
 
 ### CodeWhisperer and Prompts Playbook
