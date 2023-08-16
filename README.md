@@ -59,7 +59,16 @@ example:
 <img width="651" alt="aws (6)" src="https://github.com/RuchitaSuranagi/Cloud9-CodeWhisperer-Workshop/assets/55045069/1b5e875a-97c7-4b64-9351-b8940c7feb59">
 
 ### Additional Resources:
-- [Amazon CodeWhisperer Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/en-US/03-python): Learn Python with examples and challenges.
+- [Amazon CodeWhisperer Immersion Day (workshops.aws)](https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/en-US/03-python)
+
+Get started with some examples in Python. You will begin with a brief introduction and then you will have the opportunity to solve a few challenges. 
+
+Basics 
+Prompt Engineering 
+User API Challenge 
+Image API Challenge 
+Deals API Challenge 
+
 - [AWS Cloud9 Documentation](https://docs.aws.amazon.com/cloud9/index.html)
 - [AWS Cloud9 User Guide](https://docs.aws.amazon.com/cloud9/latest/user-guide/)
 - [AWS Cloud9 API Reference](https://docs.aws.amazon.com/cloud9/latest/APIReference/)
