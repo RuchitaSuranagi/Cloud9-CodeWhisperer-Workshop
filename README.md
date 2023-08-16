@@ -28,7 +28,7 @@ Once logged in to Cloud9 IDE, you'll find a code editor, debugger, terminal, and
 ### Step 3:
 Before you start typing code ensure that CodeWhisperer is activated.
 
-Navigate to aws-explorer --> Developer tools --> CodwWhisperer in the left-hand side of window, make sure CodeWhisperer is not on pause (incase its on resume Auto-suggestions mode then click on it : <img width="115" alt="image" src="https://github.com/RuchitaSuranagi/Cloud9-CodeWhisperer-Workshop/assets/55045069/5b83c890-74bd-4080-9be1-5353096e58bf">
+Navigate to aws-explorer --> Developer tools --> CodeWhisperer in the left-hand side of window, make sure CodeWhisperer is not on pause (incase its on resume Auto-suggestions mode then click on it : <img width="115" alt="image" src="https://github.com/RuchitaSuranagi/Cloud9-CodeWhisperer-Workshop/assets/55045069/5b83c890-74bd-4080-9be1-5353096e58bf">
  ).
 
 Below is a screenshot of what you are expected to see: 
@@ -59,6 +59,9 @@ Tips for Using Cloud9:
 example:
 <img width="651" alt="aws (6)" src="https://github.com/RuchitaSuranagi/Cloud9-CodeWhisperer-Workshop/assets/55045069/1b5e875a-97c7-4b64-9351-b8940c7feb59">
 
+### NOTE: ITS IMPOTANT TO ONLY CODE INSIDE THE FOLDER ASSIGNED TO YOU. (e.g.:  User1) 
+
+ 
 ### Additional Resources:
 - [Amazon CodeWhisperer Immersion Day (workshops.aws)](https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/en-US/03-python)
 
